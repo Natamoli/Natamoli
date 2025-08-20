@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Natalia 👋</h1>
 </div>
-<img src="https://imgur.com/VWGPlkY.png">
+<img src="https://imgur.com/a/9ZGeShL.png">
 
 [![linkedIn](https://www.linkedin.com/in/natamolinaqa/)]
 
