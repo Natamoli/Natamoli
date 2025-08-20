@@ -1,9 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Natalia 👋</h1>
 </div>
-<img src="https://imgur.com/VWGPlkY">
+<img src="https://imgur.com/VWGPlkY.png">
 
-[![linkedIn](https://www.linkedin.com/in/natamolinaqa)]
+[![linkedIn](https://www.linkedin.com/in/natamolinaqa/)]
 
 ## About me
 
