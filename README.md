@@ -21,8 +21,7 @@
 ✨ Always curious. Always learning. Always improving.
 <br>
 
-* :mailbox: Let's get in touch  [![Linkedin Badge](https://www.linkedin.com/in/natamolinaqa/)
-
+* :mailbox: Let's get in touch  [![Linkedin Badge](https://img.shields.io/badge/-Natalia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natamolinaqa)
 * :e-mail: natalin.2920@gmail.com
 
 * :iphone: +51 3102292020
