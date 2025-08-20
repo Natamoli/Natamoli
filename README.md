@@ -10,9 +10,18 @@
 - ⭐ Postman Star ⭐
 - 🐛 Web & mobile manual Testing
 - 📲 API Process Automation
+- 💻 Tech Lover | QA Engineer | Curious Mind
+
+🔭 I recently completed my QA Engineering Bootcamp at TripleTen, and I’m excited to keep growing and putting my skills into action.
+
+🌱 Right now, I’m practicing test automation with Selenium and have already worked on projects using SQL and Python (Pytest, Requests). I also enjoy working with manual testing tools like Jira, Postman, and Android Studio.
+
+💡 What drives me is facing challenges, learning new things, and finding smart ways to automate and improve processes. I love discovering solutions that make testing more efficient and fun.
+
+✨ Always curious. Always learning. Always improving.
 <br>
 
-* :mailbox: Lets get intouch  [![Linkedin Badge](https://www.linkedin.com/in/natamolinaqa/)
+* :mailbox: Let's get in touch  [![Linkedin Badge](https://www.linkedin.com/in/natamolinaqa/)
 
 * :e-mail: natalin.2920@gmail.com
 
