@@ -39,62 +39,70 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Urban Routes – Functional Web Testing</h3>
+<h3 align="center">🚖 Urban Routes - Automated Taxi Booking</h3>
 <div align="center">
-<a href="https://github.com/miguelbautistag/qa-project-Urban-Routes-es" target="_blank"><img src="https://i.imgur.com/wqgJt8B.png" width="400" alt="Urban Routes Project"></a>
-<p>
-<a href="https://github.com/miguelbautistag/qa-project-Urban-Routes-es" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Natamoli/qa-project-Urban-Routes" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" />
 </a>
-</p>
-<p>Manual functional testing of a transportation web app. Designed and executed test cases, validated UI flows, and tracked issues with Jira.</p>
+<a href="https://github.com/Natamoli/qa-project-Urban-Routes-es" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-orange?style=for-the-badge&logo=github" />
+</a>
+<p>End-to-end automated tests for a taxi booking web app.  
+Covered complete user flow: address entry, comfort fare, driver notes, and payment validation.  
+Tools: <strong>Selenium, Python, Pytest</strong>.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Urban Grocers – API Testing</h3>
+<h3 align="center">📊 Urban Grocers - API & Web Testing</h3>
 <div align="center">
-<a href="https://github.com/miguelbautistag/qa-project-Urban-Grocers-app-es" target="_blank"><img src="https://i.imgur.com/hdrp64y.png" width="400" alt="Urban Grocers Project"></a>
-<p>
-<a href="https://github.com/miguelbautistag/qa-project-Urban-Grocers-app-es" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Natamoli/qa-project-Urban-Grocers-app-es" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-green?style=for-the-badge&logo=github" />
 </a>
-</p>
-<p>Tested REST API endpoints with Postman. Verified status codes, request/response formats, and ensured system integration.</p>
+<p>Designed and executed manual and automated tests for a grocery delivery platform.  
+Validated API responses, order processing, and data integrity.  
+Tools: <strong>Postman, Selenium, Python, SQL</strong>.</p>
 </div>
 </td>
 </tr>
-</table>
 
-<table>
 <tr>
 <td width="50%">
-<h3 align="center">Routing App – UI Automation</h3>
+<h3 align="center">🛒 E-commerce QA Project</h3>
 <div align="center">
-<a href="https://github.com/natamolina" target="_blank"><img src="https://i.imgur.com/pcGuic0.png" width="400" alt="Routing App Project"></a>
-<p>
-<a href="https://github.com/natamolina" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ffa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Natamoli/qa-project-ecommerce" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-purple?style=for-the-badge&logo=github" />
 </a>
-</p>
-<p>Automated UI tests for a routing application using Selenium WebDriver, Python, and Pytest. Improved regression testing efficiency.</p>
+<p>Tested checkout and payment systems for an e-commerce platform.  
+Performed database validations and API testing for transactions.  
+Tools: <strong>Jest, Postman, SQL</strong>.</p>
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Taxi Service – Database Validation</h3>
+<h3 align="center">📱 Mobile QA — To-Do App</h3>
 <div align="center">
-<a href="https://github.com/natamolina" target="_blank"><img src="https://i.imgur.com/U2Ptpui.png" width="400" alt="Taxi Service Project"></a>
-<p>
-<a href="https://github.com/natamolina" target="_blank">
-<img src="https://img.shields.io/badge/CODE-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/Natamoli/qa-project-mobile-todo" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-orange?style=for-the-badge&logo=github" />
 </a>
-</p>
-<p>Validated backend data with SQL queries to ensure consistency in ride details, payments, and customer information.</p>
+<a href="https://github.com/Natamoli/qa-project-mobile-todo" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" />
+</a>
+<p>QA project for a cross-platform to-do app.  
+Validated UI/UX consistency, task creation, and notifications.  
+Tools: <strong>Cypress, JavaScript</strong>.</p>
 </div>
 </td>
 </tr>
 </table>
+
+---
+
+<p align="center">
+<a href="https://www.linkedin.com/in/natamolinaqa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:natalin.2920@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+<a href="https://github.com/Natamoli"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
 ---
 
 ### ⚙️ GitHub Analytics  
