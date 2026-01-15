@@ -34,6 +34,7 @@
 
 </div>
 ---
+
 ### 📂 Featured Projects  
 
 <table>
