@@ -3,7 +3,7 @@
   <h3 align="center">QA Engineer | Tech Enthusiast | Curious Mind</h3>
 </div>
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHT_ra3N5AQvw/profile-displaybackgroundimage-shrink_350_1400/B56ZjIH47YHUAg-/0/1755704179704?e=1758758400&v=beta&t=JOAKFCRD2UccXrD9B9EXPJ24O4tKfmIvARJsqXWdo3A" width="100%" alt="banner">
+<img src="https://github.com/Natamoli/Natamoli/blob/30068d14491574530eb50673a0dbfcbc999360dd/baner%20linkedin.jpeg">
 
 ---
 
