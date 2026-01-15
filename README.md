@@ -103,7 +103,6 @@ Tools: <strong>Cypress, JavaScript</strong>.</p>
 ### ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natamoli&show_icons=true&theme=algolia" alt="Natamoli's GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natamoli&theme=algolia" alt="GitHub Streak" height="180" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Natamoli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Natamoli&layout=compact&langs_count=8&theme=algolia"/>
 </p>
----
