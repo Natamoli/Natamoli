@@ -41,9 +41,6 @@
 <td width="50%">
 <h3 align="center">🚖 Urban Routes - Automated Taxi Booking</h3>
 <div align="center">
-<a href="https://github.com/Natamoli/qa-project-Urban-Routes" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" />
-</a>
 <a href="https://github.com/Natamoli/qa-project-Urban-Routes-es" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Project-orange?style=for-the-badge&logo=github" />
 </a>
@@ -82,9 +79,6 @@ Tools: <strong>Jest, Postman, SQL</strong>.</p>
 <td width="50%">
 <h3 align="center">📱 Mobile QA — To-Do App</h3>
 <div align="center">
-<a href="https://github.com/Natamoli/qa-project-mobile-todo" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-orange?style=for-the-badge&logo=github" />
-</a>
 <a href="https://github.com/Natamoli/qa-project-mobile-todo" target="_blank">
 <img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" />
 </a>
