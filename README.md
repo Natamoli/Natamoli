@@ -1,28 +1,28 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Natalia 👋</h1>
-  <h3 align="center">QA Engineer | Tech Enthusiast | Curious Mind</h3>
+  <img src="https://github.com/Natamoli/Natamoli/blob/30068d14491574530eb50673a0dbfcbc999360dd/baner%20linkedin.jpeg">
 </div>
-
-<img src="https://github.com/Natamoli/Natamoli/blob/30068d14491574530eb50673a0dbfcbc999360dd/baner%20linkedin.jpeg">
-
+  
+<div align="center">
+  <h1 align="center">Hi, I'm Natalia 👋</h1>
+  <h3 align="center">QA Engineer & Software Tester
+    
 ---
 
 ### 🚀 About Me  
 
-- ⭐ Passionate about **Software Quality & Automation**  
-- 🔭 Completed the **QA Engineering Bootcamp at TripleTen**  
-- 🌱 Practicing **Selenium** and building projects with **SQL** & **Python** (Pytest, Requests)  
-- 🐛 Skilled in **Manual Testing**: Jira, Postman, Android Studio  
-- 💡 Love to **solve problems, automate processes**, and make testing smarter  
-- ✨ Always curious. Always learning. Always improving.  
+- ⭐ **QA Engineer** | Combining technical testing skills with a **Customer Service** background to build better user experiences.
+- 🔭 **TripleTen Bootcamp Graduate** with hands-on experience in the full testing lifecycle.
+- 🛠️ **Tech Stack:** Currently focused on **Python (Pytest), JavaScript, Selenium, and SQL** for automation.
+- 📱 **Manual Testing:** Skilled in bug reporting, API testing, and test case management with **Jira, Postman, and TestRail**.
+- 🎯 My goal is to ensure every release is high-quality and user-friendly by thinking like a customer.
+- ✨ Curious by nature and dedicated to continuous learning in the world of QA.
 
 ---
 
 ### 🤝 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natalia%20Molina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natamolinaqa/)  
-📧 **Email:** natalin.2920@gmail.com  
-📱 **Phone:** +51 3102292020  
+📧 **Email:** natalin.2920@gmail.com   
 
 ---
 
@@ -64,40 +64,6 @@ Tools: <strong>Postman, Selenium, Python, SQL</strong>.</p>
 </td>
 </tr>
 
-<tr>
-<td width="50%">
-<h3 align="center">🛒 E-commerce QA Project</h3>
-<div align="center">
-<a href="https://github.com/Natamoli/qa-project-ecommerce" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-purple?style=for-the-badge&logo=github" />
-</a>
-<p>Tested checkout and payment systems for an e-commerce platform.  
-Performed database validations and API testing for transactions.  
-Tools: <strong>Jest, Postman, SQL</strong>.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">📱 Mobile QA — To-Do App</h3>
-<div align="center">
-<a href="https://github.com/Natamoli/qa-project-mobile-todo" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" />
-</a>
-<p>QA project for a cross-platform to-do app.  
-Validated UI/UX consistency, task creation, and notifications.  
-Tools: <strong>Cypress, JavaScript</strong>.</p>
-</div>
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
-<a href="https://www.linkedin.com/in/natamolinaqa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:natalin.2920@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/Natamoli"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-</p>
 ---
 
 ### ⚙️ GitHub Analytics  
