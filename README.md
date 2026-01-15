@@ -34,7 +34,7 @@
 
 </div>
 ---
-## 📂 Featured Projects  
+### 📂 Featured Projects  
 
 <table>
 <tr>
