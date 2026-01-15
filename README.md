@@ -9,12 +9,13 @@
 ---
 
 ### 🚀 About Me  
-- ⭐ **QA Engineer** | Combining technical testing skills with a **Customer Service** background to build better user experiences.
-- 🔭 **TripleTen Bootcamp Graduate** with hands-on experience in the full testing lifecycle.
-- 🛠️ **Tech Stack:** Currently focused on **Python (Pytest), JavaScript, Selenium, and SQL** for automation.
-- 📱 **Manual Testing:** Skilled in bug reporting, API testing, and test case management with **Jira, Postman, and TestRail**.
-- 🎯 My goal is to ensure every release is high-quality and user-friendly by thinking like a customer.
-- ✨ Curious by nature and dedicated to continuous learning in the world of QA.
+
+⭐ **QA Engineer** | Combining technical testing skills with a **Customer Service** background to build better user experiences.
+🔭 **TripleTen Bootcamp Graduate** with hands-on experience in the full testing lifecycle.
+🛠️ **Tech Stack:** Currently focused on **Python (Pytest), JavaScript, Selenium, and SQL** for automation.
+📱 **Manual Testing:** Skilled in bug reporting, API testing, and test case management with **Jira, Postman, and TestRail**.
+🎯 My goal is to ensure every release is high-quality and user-friendly by thinking like a customer.
+✨ Curious by nature and dedicated to continuous learning in the world of QA.
 
 ---
 
@@ -29,7 +30,7 @@
 
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=py,postman,selenium,java,postgres,github,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,postman,selenium,java,postgres,github,html,js)](https://skillicons.dev)
 
 </div>
 ---
