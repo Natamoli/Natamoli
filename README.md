@@ -10,6 +10,7 @@
 
 ### 🚀 About Me  
 
+<div align="left">
 - ⭐ **QA Engineer** | Combining technical testing skills with a **Customer Service** background to build better user experiences.
 - 🔭 **TripleTen Bootcamp Graduate** with hands-on experience in the full testing lifecycle.
 - 🛠️ **Tech Stack:** Currently focused on **Python (Pytest), JavaScript, Selenium, and SQL** for automation.
