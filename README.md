@@ -59,6 +59,21 @@
 </tr>
 </table>
 
+<td width="50%" valign="top">
+<h3 align="center">🕵️‍♂️ Sauce Demo Audit</h3>
+<p align="center">
+<a href="https://github.com/Natamoli/Sauce-Demo-Testing-Project" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" />
+</a>
+</p>
+<p>Comprehensive manual testing audit for an e-commerce site. Created professional test suites and managed the full bug lifecycle using Agile methodologies.
+<br><strong>Tools: Jira, Google Sheets, Chrome DevTools.</strong></p>
+</td>
+
+<td width="50%" valign="top">
+</td>
+</tr>
+
 ---
 
 ### ⚙️ GitHub Analytics
