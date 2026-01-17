@@ -34,32 +34,30 @@
 ### 📂 Featured Projects
 
 <table border="0">
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">🚖 Urban Routes</h3>
-<p align="center">
-<a href="https://github.com/Natamoli/qa-project-Urban-Routes-es" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-orange?style=for-the-badge&logo=github" />
-</a>
-</p>
-<p>End-to-end automated tests for a taxi booking web app. Covered complete user flow: address entry, comfort fare, driver notes, and payment validation.
-<br><strong>Tools: Selenium, Python, Pytest.</strong></p>
-</td>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚖 Urban Routes</h3>
+      <p align="center">
+        <a href="https://github.com/Natamoli/qa-project-Urban-Routes-es" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Project-orange?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>End-to-end automated tests for a taxi booking web app. Covered complete user flow: address entry, comfort fare, driver notes, and payment validation.
+      <br><strong>Tools: Selenium, Python, Pytest.</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Urban Grocers</h3>
+      <p align="center">
+        <a href="https://github.com/Natamoli/qa-project-Urban-Grocers-app-es" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Project-green?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Designed and executed manual and automated tests for a grocery delivery platform. Validated API responses, order processing, and data integrity.
+      <br><strong>Tools: Postman, Selenium, Python, SQL.</strong></p>
+    </td>
+  </tr>
 
-<td width="50%" valign="top">
-<h3 align="center">📊 Urban Grocers</h3>
-<p align="center">
-<a href="https://github.com/Natamoli/qa-project-Urban-Grocers-app-es" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-green?style=for-the-badge&logo=github" />
-</a>
-</p>
-<p>Designed and executed manual and automated tests for a grocery delivery platform. Validated API responses, order processing, and data integrity.
-<br><strong>Tools: Postman, Selenium, Python, SQL.</strong></p>
-</td>
-</tr>
-</table>
-
-<tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🕵️‍♂️ Sauce Demo Audit</h3>
       <p align="center">
@@ -70,12 +68,6 @@
       <p>Comprehensive manual testing audit for an e-commerce site. Created professional test suites and managed the full bug lifecycle using Agile methodologies.
       <br><strong>Tools: Jira, Google Sheets, Chrome DevTools.</strong></p>
     </td>
-    <td width="50%" valign="top">
-      </td>
-  </tr>
-</table>
-
-</td>
     <td width="50%" valign="top">
       <h3 align="center">🔄 Urban Routes Regression</h3>
       <p align="center">
@@ -88,7 +80,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### ⚙️ GitHub Analytics
