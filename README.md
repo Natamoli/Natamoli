@@ -75,6 +75,20 @@
   </tr>
 </table>
 
+</td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔄 Urban Routes Regression</h3>
+      <p align="center">
+        <a href="https://github.com/Natamoli/Urban-Routes---Regression-Testing-Project" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Project-red?style=for-the-badge&logo=github" />
+        </a>
+      </p>
+      <p>Executed regression testing cycles to ensure application stability after updates. Developed test checklists and detailed defect reports for the development team.
+      <br><strong>Tools: Google Sheets, Chrome DevTools, Regression Testing.</strong></p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### ⚙️ GitHub Analytics
