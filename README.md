@@ -11,16 +11,19 @@
 </div>
 
 ---
+### 🚀 About me
 
-### 🚀 About Me
+QA Engineer focused on automation, data validation, and building test coverage that reflects how real users behave — not just how developers expect them to.
 
-- ⭐ **QA Engineer** | Combining technical testing skills with a **Customer Service** background to build better user experiences.
-- 🔭 **TripleTen Bootcamp Graduate** with hands-on experience in the full software testing lifecycle (STLC).
-- 🛠️ **Tech Stack:** Currently focused on **Python (Pytest), JavaScript, Selenium, and SQL** for automation.
-- 📱 **Manual Testing:** Skilled in bug reporting, API testing, and test case management with **Jira, Postman, and TestRail**.
-- 🎯 My goal is to ensure every release is high-quality and user-friendly by thinking like a customer.
-- ✨ Curious by nature and dedicated to continuous learning in the world of QA.
+Before QA, I spent years in customer-facing roles (banking, logistics, freight support), which means I approach software the way end users do: I look for the edge cases, the confusing flows, the things that almost work. That perspective now drives how I write tests.
 
+## What I work with: 🛠️ 
+- **Automation:** Playwright, Selenium WebDriver, Pytest — writing maintainable test suites with Page Object Model
+- **AI-assisted testing:** integrating AI tools to generate test scenarios and speed up coverage
+- **API testing:** Postman, REST validation, contract testing fundamentals
+- **Manual testing:** full STLC, test case design, Jira, TestRail
+- **Mobile QA:** Android Studio, emulator-based functional and UI testing
+- **Data validation:** SQL for backend and database testing
 ---
 
 ### 🛠️ Languages & Tools
