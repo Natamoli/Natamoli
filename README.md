@@ -17,7 +17,7 @@ QA Engineer focused on automation, data validation, and building test coverage t
 
 Before QA, I spent years in customer-facing roles (banking, logistics, freight support), which means I approach software the way end users do: I look for the edge cases, the confusing flows, the things that almost work. That perspective now drives how I write tests.
 
-## What I work with: 🛠️ 
+### 💡 What I work with: 
 - **Automation:** Playwright, Selenium WebDriver, Pytest — writing maintainable test suites with Page Object Model
 - **AI-assisted testing:** integrating AI tools to generate test scenarios and speed up coverage
 - **API testing:** Postman, REST validation, contract testing fundamentals
